@@ -103,7 +103,7 @@ git clone https://github.com/dang1407/ESP32_GAME.git
 - 1 Bảng mạch PCB đục lỗ 5 x 7cm
 
 ## D. Sơ đồ nguyên lý
-![](./images/Hardware_Schematic.png)
+![](./images/Hardware_schematic.png)
 
 ## E. Thiết kế phần mềm
 1. Trạng thái nút bấm được xác định thông qua đọc giá trị GPIO của BUTTON_PIN.
